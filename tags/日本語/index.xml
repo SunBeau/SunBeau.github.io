@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本語 on SunBeau&#39;s Blog - A super concise theme for Hugo</title>
+    <link>https://sunbeau.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+    <description>Recent content in 日本語 on SunBeau&#39;s Blog - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Aug 2017 01:53:34 +0800</lastBuildDate><atom:link href="https://sunbeau.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[日本語] 敬語体系 -- 主题模板示例</title>
+      <link>https://sunbeau.github.io/post/%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E6%96%87%E4%BB%B6/japanese-preview/</link>
+      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      
+      <guid>https://sunbeau.github.io/post/%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF%E6%96%87%E4%BB%B6/japanese-preview/</guid>
+      <description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに</description>
+    </item>
+    
+  </channel>
+</rss>

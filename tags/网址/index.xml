@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网址 on SunBeau&#39;s Blog - A super concise theme for Hugo</title>
+    <link>https://sunbeau.github.io/tags/%E7%BD%91%E5%9D%80/</link>
+    <description>Recent content in 网址 on SunBeau&#39;s Blog - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Dec 2020 08:50:00 +0800</lastBuildDate><atom:link href="https://sunbeau.github.io/tags/%E7%BD%91%E5%9D%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的网址导航</title>
+      <link>https://sunbeau.github.io/post/%E6%88%91%E7%9A%84%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</link>
+      <pubDate>Tue, 22 Dec 2020 08:50:00 +0800</pubDate>
+      
+      <guid>https://sunbeau.github.io/post/%E6%88%91%E7%9A%84%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</guid>
+      <description>常用网页 1、变量命名: https://unbug.github.io/codelf/ 2、开源中国博客: https://my.oschina.net/u/3618133 3、谷歌翻译: https://translate.google.cn/?hl=zh-CN&amp;amp;tab=TT 4、PostgreSQL 中文手册: http://www.postgres.cn/docs/11/index.html 5、码云: https://gitee.com 6、GitHub: https://github.com 7、廖雪峰 P</description>
+    </item>
+    
+  </channel>
+</rss>
